@@ -3,7 +3,6 @@ import 'package:news_app_clean_architecture_flutter/features/daily_news/data/mod
 import 'package:news_app_clean_architecture_flutter/features/daily_news/domain/entities/article.dart';
 
 abstract class ArticleRepository {
-  // Future<DataState<List<ArticleEntity>>> getNewsArticles();
   Future<DataState<ArticleResponse>> getNewsArticles();
 
   Future<List<ArticleEntity>> getSavedArticles();
