@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/d748c574-1dc7-4c03-97f1-aa5d8ace1cbe
 # news_app_clean_architecture_flutter
 
 A new Flutter project.
@@ -14,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+|Video|
+|Uploading NewsApp (1).mov|
